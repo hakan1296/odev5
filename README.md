@@ -4,7 +4,7 @@
 # MekanBul REST API
 
 ## [1.Girilen Konum Civarındaki Mekanları Listele]
-https://odev5.hakan1296.repl.co/api/mekanlar?enlem=37.8&boylam=30.5
+(https://odev5.hakan1296.repl.co/api/mekanlar?enlem=37.8&boylam=30.5)
 ![koordinat](https://user-images.githubusercontent.com/115693802/203407680-99ba21f5-f605-4fbd-950d-88cf72ef6afc.png)
 
 ## [2. Mekan ID ile Mekan Bilgileri Getir]
